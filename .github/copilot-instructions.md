@@ -1,0 +1,4 @@
+- [x] Khởi tạo project Node.js Express REST API đơn giản.
+- [ ] Thêm endpoint GET /api/hello trả về 'Hello World'.
+- [ ] Thêm start script và hướng dẫn deploy lên render.com.
+- [ ] Tạo README.md với hướng dẫn sử dụng và deploy.
